@@ -30,3 +30,15 @@ Este es un comentario
 de varias líneas
 """
 ```
+## Sensibilidad a mayúsculas y minúsculas
+* Python distingue entre mayúsculas y minúsculas. Por lo tanto, variable, Variable y VARIABLE se consideran variables diferentes.
+## Punto y coma
+* A diferencia de otros lenguajes, Python no requiere el uso de punto y coma (;) al final de cada instrucción. Sin embargo, si deseas escribir varias instrucciones en una sola línea, puedes separarlas con un punto y coma. Por ejemplo:
+```python
+instruccion1; instruccion2; instruccion3
+```
+## Uso de paréntesis
+* Los paréntesis se utilizan para agrupar expresiones, definir funciones y realizar llamadas a funciones. Por ejemplo:
+```python
+resultado = (a + b) * c
+```
