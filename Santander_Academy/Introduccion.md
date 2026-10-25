@@ -9,3 +9,12 @@
 | **Legibilidad**<br><br>Python utiliza una sintaxis clara y sencilla, lo que facilita la lectura y comprensión del código. Utiliza indentación (espacios o tabulaciones) para delimitar bloques de código, lo que promueve un estilo de programación estructurado y legible. | **Multiplataforma**<br><br>Python se puede ejecutar en diferentes sistemas operativos, como Windows, macOS y Linux, sin necesidad de modificar el código. Esto lo convierte en un lenguaje versátil y portátil. |
 | **Tipado dinámico**<br><br>En Python, no es necesario declarar explícitamente el tipo de datos de las variables. Python infiere automáticamente el tipo de datos en función del valor asignado a una variable, lo que simplifica la escritura de código. | **Amplia biblioteca estándar**<br><br>Python viene con una extensa biblioteca estándar que proporciona una gran cantidad de módulos y funciones para realizar diversas tareas, como manipulación de archivos, conexión a bases de dados, procesamiento de texto, entre otros. |
 | **Interpretado**<br><br>Python es un lenguaje interpretado, lo que significa que el código se ejecuta línea por línea en tiempo real. Esto permite un ciclo de desarrollo rápido y facilita la depuración del código. | **Comunidad activa**<br><br>Python cuenta con una comunidad de desarrolladores grande y activa que contribuye con bibliotecas, *frameworks* y herramientas adicionales. Esto significa que encontrarás una gran cantidad de recursos y soporte disponibles. |
+
+## Aplicaciones
+Python se utiliza en una amplia gama de aplicaciones y dominios, algunos ejemplos son:  
+---
+| | |
+| :--- | :--- |
+| **Ciencia de datos**<br><br>Python es el lenguaje preferido para el análisis de datos y la ciencia de datos debido a bibliotecas como NumPy, Pandas y Matplotlib. | **Desarrollo web**<br><br>Python es ampliamente utilizado en el desarrollo web *backend*, con *frameworks* populares como Django y Flask. |
+| **Automatización de tareas**<br><br>Python se puede utilizar para automatizar tareas repetitivas, como procesamiento de archivos, web *scraping* y pruebas de *software*. | **Inteligencia artificial y *machine learning***<br><br>Python es la elección principal para proyectos de IA y *machine learning*, gracias a bibliotecas como TensorFlow y Scikit-learn. |
+| | **Desarrollo de juegos**<br><br>Python se utiliza en el desarrollo de juegos simples, especialmente con bibliotecas como Pygame. |
