@@ -17,3 +17,16 @@ else:
     instrucción3
     instrucción4
 ```
+	
+x. Importante
+Es fundamental mantener una indentación consistente en todo el código para evitar errores de sintaxis.
+## Comentarios
+* Los comentarios son líneas de texto en el código que son ignoradas por el intérprete de Python. Se utilizan para explicar o documentar el código. En Python, los comentarios de una sola línea comienzan con el símbolo #, mientras que los comentarios de varias líneas se encierran entre triples comillas """. Por ejemplo:
+```python
+# Este es un comentario de una sola línea
+
+"""
+Este es un comentario
+de varias líneas
+"""
+```
