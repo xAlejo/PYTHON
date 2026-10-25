@@ -3,7 +3,7 @@
 
 * Python se diseñó con el objetivo de ser un lenguaje fácil de leer y escribir, con una sintaxis clara y concisa. A lo largo de los años, ha evolucionado y ganado popularidad hasta convertirse en uno de los lenguajes de programación más utilizados en el mundo.
 ## Características
-* Python tiene varias características que lo hacen atractivo tanto para principiantes como para programadores experimentados: 
+* Python tiene varias características que lo hacen atractivo tanto para principiantes como para programadores experimentados <br>
 | | |
 | :--- | :--- |
 | **Legibilidad**<br><br>Python utiliza una sintaxis clara y sencilla, lo que facilita la lectura y comprensión del código. Utiliza indentación (espacios o tabulaciones) para delimitar bloques de código, lo que promueve un estilo de programación estructurado y legible. | **Multiplataforma**<br><br>Python se puede ejecutar en diferentes sistemas operativos, como Windows, macOS y Linux, sin necesidad de modificar el código. Esto lo convierte en un lenguaje versátil y portátil. |
