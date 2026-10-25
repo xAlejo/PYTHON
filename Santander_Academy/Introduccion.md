@@ -1,1 +1,10 @@
+# Introducción a Python
+* Python fue creado por Guido van Rossum, un programador holandés, a finales de los años 80 y principios de los 90. La primera versión de Python, la 0.9.0, fue lanzada en 1991. Guido van Rossum nombró el lenguaje en honor al grupo de comedia británico Monty Python, del cual era un gran fan. 
 
+* Python se diseñó con el objetivo de ser un lenguaje fácil de leer y escribir, con una sintaxis clara y concisa. A lo largo de los años, ha evolucionado y ganado popularidad hasta convertirse en uno de los lenguajes de programación más utilizados en el mundo.
+## Características
+| | |
+| :--- | :--- |
+| **Legibilidad**<br><br>Python utiliza una sintaxis clara y sencilla, lo que facilita la lectura y comprensión del código. Utiliza indentación (espacios o tabulaciones) para delimitar bloques de código, lo que promueve un estilo de programación estructurado y legible.[cite: 1] | **Multiplataforma**<br><br>Python se puede ejecutar en diferentes sistemas operativos, como Windows, macOS y Linux, sin necesidad de modificar el código. Esto lo convierte en un lenguaje versátil y portátil.[cite: 1] |
+| **Tipado dinámico**<br><br>En Python, no es necesario declarar explícitamente el tipo de datos de las variables. Python infiere automáticamente el tipo de datos en función del valor asignado a una variable, lo que simplifica la escritura de código.[cite: 1] | **Amplia biblioteca estándar**<br><br>Python viene con una extensa biblioteca estándar que proporciona una gran cantidad de módulos y funciones para realizar diversas tareas, como manipulación de archivos, conexión a bases de dados, procesamiento de texto, entre otros.[cite: 1] |
+| **Interpretado**<br><br>Python es un lenguaje interpretado, lo que significa que el código se ejecuta línea por línea en tiempo real. Esto permite un ciclo de desarrollo rápido y facilita la depuración del código.[cite: 1] | **Comunidad activa**<br><br>Python cuenta con una comunidad de desarrolladores grande y activa que contribuye con bibliotecas, *frameworks* y herramientas adicionales. Esto significa que encontrarás una gran cantidad de recursos y soporte disponibles.[cite: 1] |
